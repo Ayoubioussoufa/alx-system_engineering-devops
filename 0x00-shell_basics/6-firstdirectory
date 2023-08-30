@@ -1,3 +1,2 @@
 #!bin/bash
-directory_path="/tmp/my_first_director"
-mkdir -p "$directory_path"
+mkdir -p /tmp/my_first_directory
