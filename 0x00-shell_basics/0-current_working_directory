@@ -5,5 +5,5 @@ cwd=$(pwd)
 absolute_path=$(realpath "$cwd")
 
 # Print the absolute path
-echo "Absolute path of the current working directory: $absolute_path"
+echo "$absolute_path"
 
