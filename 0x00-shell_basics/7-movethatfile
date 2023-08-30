@@ -1,0 +1,4 @@
+#!bin/bash
+directory_path="/tmp/my_first_directory"
+betty="/tmp/betty"
+mv "$betty" "$directory_path"
