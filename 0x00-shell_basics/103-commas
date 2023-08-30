@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p | LC_ALL=C sort -d -f -t'/' -k1,1 | tr '\n' ','; echo
+ls -p | LC_ALL=C sort -d -f -t'/' -k1,1 | tr '\n' ',' echo
